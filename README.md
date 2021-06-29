@@ -10,7 +10,8 @@ Add the access key and Secret access with permission 400 under .boto 0r can prov
 
 To run the ansible-playbook Provision_Ec2.yml
 
-High available :HA:
+For High available (HA):
+Multiple instances/multiple availability zones.
 EC2 instance to be deployed into an Auto Scaling (AS) group which will be linked to an Elastic Load Balancer (ELB).
 
 ============================================================================================================
